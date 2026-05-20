@@ -8,9 +8,9 @@ export const Route = createFileRoute("/kontak")({
 });
 
 const socials = [
-  { icon: Facebook, name: "Facebook", v: "Smp Mutu Wuluhan", href: "#" },
-  { icon: Instagram, name: "Instagram", v: "@smpmutu_wuluhan", href: "#" },
-  { icon: Youtube, name: "YouTube", v: "smp muhammadiyah 7 Wuluhan", href: "#" },
+  { icon: Facebook, name: "Facebook", v: "Smp Mutu Wuluhan", href: "https://www.facebook.com/sm75awu" },
+  { icon: Instagram, name: "Instagram", v: "@smpmutu_wuluhan", href: "https://www.instagram.com/smpmutu_wuluhan" },
+  { icon: Youtube, name: "YouTube", v: "smp muhammadiyah 7 Wuluhan", href: "https://www.youtube.com/@smpmuhammadiyah7wuluhan50" },
 ];
 
 function KontakPage() {

@@ -3,9 +3,9 @@ import { Facebook, Instagram, Youtube, MapPin, Mail, Phone } from "lucide-react"
 import logo from "@/assets/logo.png";
 
 const socials = [
-  { Icon: Facebook, label: "Facebook SMP Muhammadiyah 7 Wuluhan", href: "https://www.facebook.com/smpmutu.wuluhan" },
+  { Icon: Facebook, label: "Facebook SMP Muhammadiyah 7 Wuluhan", href: "https://www.facebook.com/sm75awu" },
   { Icon: Instagram, label: "Instagram @smpmutu_wuluhan", href: "https://www.instagram.com/smpmutu_wuluhan" },
-  { Icon: Youtube, label: "YouTube SMP Muhammadiyah 7 Wuluhan", href: "https://www.youtube.com/@smpmuhammadiyah7wuluhan" },
+  { Icon: Youtube, label: "YouTube SMP Muhammadiyah 7 Wuluhan", href: "https://www.youtube.com/@smpmuhammadiyah7wuluhan50" },
 ];
 
 export function SiteFooter() {

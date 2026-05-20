@@ -48,7 +48,7 @@ const SLIDES = [
   {
     img: galleryTrophy,
     caption: "Prestasi gemilang di berbagai lomba",
-    label: "Berkarir",
+    label: "Ahklak Islami",
   },
   {
     img: prestasiHw,

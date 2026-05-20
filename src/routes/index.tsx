@@ -38,7 +38,7 @@ const SLIDES = [
   {
     img: galleryPraying,
     caption: "Aktualisasi hidup berorganisasi",
-    label: "Akhlak Islami",
+    label: "Organisasi",
   },
   {
     img: galleryCeremony,
@@ -48,17 +48,17 @@ const SLIDES = [
   {
     img: galleryTrophy,
     caption: "Prestasi gemilang di berbagai lomba",
-    label: "Berprestasi",
+    label: "Berkarir",
   },
   {
     img: prestasiHw,
     caption: "Hizbul Wathan organisasi kepanduan Muhammadiyah",
-    label: "Organisasi",
+    label: "Kepanduan",
   },
   {
     img: prestasiKaligrafi,
     caption: "Juara 1 Cerdas Cermat tingkat Jember Selatan",
-    label: "Seni & Budaya",
+    label: "Berprestasi",
   },
 ];
 

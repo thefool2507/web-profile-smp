@@ -33,7 +33,6 @@ export const Route = createFileRoute("/")({
 const SLIDES = [
   {
     img: heroSchool,
-    caption: "Gedung SMP Muhammadiyah 7 Wuluhan",
     label: "Lingkungan Belajar",
   },
   {

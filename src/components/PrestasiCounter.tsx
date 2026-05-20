@@ -2,9 +2,9 @@ import { Award, Users, GraduationCap, Trophy } from "lucide-react";
 import { AnimatedCounter } from "./AnimatedCounter";
 
 const items = [
-  { icon: Users, value: 450, suffix: "+", label: "Siswa Aktif" },
-  { icon: GraduationCap, value: 3200, suffix: "+", label: "Alumni Tersebar" },
-  { icon: Trophy, value: 127, suffix: "+", label: "Prestasi Kejuaraan" },
+  { icon: Users, value: 50, suffix: "+", label: "Siswa Aktif" },
+  { icon: GraduationCap, value: 620, suffix: "+", label: "Alumni Tersebar" },
+  { icon: Trophy, value: 67, suffix: "+", label: "Prestasi Kejuaraan" },
   { icon: Award, value: 56, suffix: "", label: "Tahun Pengalaman" },
 ];
 

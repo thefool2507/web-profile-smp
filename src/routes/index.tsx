@@ -253,7 +253,7 @@ function HomePage() {
             Keunggulan
           </span>
           <h2 className="mt-3 font-display text-3xl font-bold text-primary-deep sm:text-4xl">
-            Mengapa Memilih SMP Mutu 7?
+            Mengapa Memilih SMP Muhammadiyah 7?
           </h2>
           <p className="mt-4 text-muted-foreground">
             Empat pilar yang menjadi fondasi pendidikan kami.

@@ -78,7 +78,7 @@ function KontakPage() {
         <div className="overflow-hidden rounded-3xl border border-border shadow-elegant">
           <iframe
             title="Lokasi SMP Muhammadiyah 7 Wuluhan"
-            src="https://www.google.com/maps?q=SMP+Muhammadiyah+7+Wuluhan+Jember&output=embed"
+            src="https://www.google.com/maps?q=SMP+Muhammadiyah+7+Tamansari+Jember&output=embed"
             className="h-full min-h-[480px] w-full"
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"

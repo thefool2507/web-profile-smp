@@ -3,7 +3,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { Shield, Swords, Trophy, Music, Users } from "lucide-react";
 import { PageHero } from "@/components/PageHero";
 import imgHw from "@/assets/ekskul-hw.jpg";
-import imgSilat from "@/assets/ekskul-tapaksuci.jpg";
+import imgSilat from "@/assets/gallery-pencak.jpg";
 import imgFutsal from "@/assets/ekskul-futsal.jpg";
 import imgHadrah from "@/assets/ekskul-hadrah.jpg";
 import imgIpm from "@/assets/ekskul-ipm.jpg";

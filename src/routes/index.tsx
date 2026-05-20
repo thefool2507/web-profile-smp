@@ -15,10 +15,10 @@ import {
 } from "lucide-react";
 import classroom from "@/assets/students-classroom.jpg";
 import heroSchool from "@/assets/hero-school.jpg";
-import galleryPraying from "@/assets/gallery-praying.jpg";
+import galleryPraying from "@/assets/ekskul-ipm.jpg";
 import galleryCeremony from "@/assets/gallery-ceremony.jpg";
 import galleryTrophy from "@/assets/gallery-trophy.jpg";
-import prestasiHw from "@/assets/prestasi-hw.jpg";
+import prestasiHw from "@/assets/ekskul-hw.jpg";
 import prestasiKaligrafi from "@/assets/prestasi-kaligrafi.jpg";
 import { PrestasiCounter } from "@/components/PrestasiCounter";
 import { GalleryGrid } from "@/components/GalleryGrid";
@@ -37,7 +37,7 @@ const SLIDES = [
   },
   {
     img: galleryPraying,
-    caption: "Pembiasaan ibadah berjamaah setiap hari",
+    caption: "Aktualisasi hidup berorganisasi",
     label: "Akhlak Islami",
   },
   {
@@ -57,7 +57,7 @@ const SLIDES = [
   },
   {
     img: prestasiKaligrafi,
-    caption: "Juara kaligrafi tingkat kabupaten",
+    caption: "Juara 1 Cerdas Cermat tingkat Jember Selatan",
     label: "Seni & Budaya",
   },
 ];

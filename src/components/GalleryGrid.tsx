@@ -5,8 +5,8 @@ import ceremony from "@/assets/gallery-ceremony.jpg";
 import praying from "@/assets/gallery-praying.jpg";
 import pencak from "@/assets/gallery-pencak.jpg";
 import trophy from "@/assets/gallery-trophy.jpg";
-import classroom from "@/assets/students-classroom.jpg";
-import hero from "@/assets/hero-school.jpg";
+import classroom from "@/assets/kelasaktif.jpg";
+import hero from "@/assets/kesenian.jpg";
 
 const photos = [
   { src: ceremony, alt: "Upacara bendera siswa", caption: "Upacara Bendera Setiap Senin" },
@@ -14,7 +14,7 @@ const photos = [
   { src: pencak, alt: "Latihan Tapak Suci", caption: "Ekstrakurikuler Tapak Suci" },
   { src: trophy, alt: "Siswa memenangkan kejuaraan", caption: "Juara Lomba Tingkat Kabupaten" },
   { src: classroom, alt: "Suasana kelas", caption: "Pembelajaran Aktif di Kelas" },
-  { src: hero, alt: "Gedung sekolah", caption: "Lingkungan Sekolah Nyaman" },
+  { src: hero, alt: "Pameran Seni Budaya", caption: "Beragam Ajang Kesenian" },
 ];
 
 export function GalleryGrid() {

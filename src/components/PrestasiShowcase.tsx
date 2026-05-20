@@ -9,9 +9,9 @@ import imgHw from "@/assets/prestasi-hw.jpg";
 const items = [
   { y: "2024", t: "Juara 1 Pencak Silat Tapak Suci", c: "Kejuaraan Kabupaten Jember", icon: Trophy, tone: "gold", img: imgSilat },
   { y: "2024", t: "Juara 3 Lomba Adzan", c: "Pekan Olahraga & Seni Pelajar", icon: Medal, tone: "blue", img: imgTahfidz },
-  { y: "2023", t: "Juara 1 Final Competition", c: "Pekan Olahraga & Seni Pelajar", icon: Trophy, tone: "gold", img: imgPidato },
-  { y: "2023", t: "Juara 1 Lomba Hadrah", c: "Tingkat Kabupaten", icon: Trophy, tone: "gold", img: imgIpa },
-  { y: "2023", t: "Juara 1 Cerdas Cermat", c: "Gebyar Milad SMK Muhammadiyah 3 Ambulu", icon: Trophy, tone: "gold", img: imgKaligrafi },
+  { y: "2024", t: "Juara 1 Final Competition", c: "Pekan Olahraga & Seni Pelajar", icon: Trophy, tone: "gold", img: imgPidato },
+  { y: "2024", t: "Juara 1 Lomba Hadrah", c: "Tingkat Kabupaten", icon: Trophy, tone: "gold", img: imgIpa },
+  { y: "2024", t: "Juara 1 Cerdas Cermat", c: "Gebyar Milad SMK Muhammadiyah 3 Ambulu", icon: Trophy, tone: "gold", img: imgKaligrafi },
   { y: "2022", t: "Juara 1 Lomba Gambar Batik", c: "Kejuaraan Se-jember Selatan", icon: Trophy, tone: "gold", img: imgHw },
 ];
 

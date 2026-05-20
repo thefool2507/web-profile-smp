@@ -8,8 +8,8 @@ const items = [
     initial: "S",
   },
   {
-    name: "Ahmad Fauzi",
-    role: "Alumni 2022 · SMAN 1 Jember",
+    name: "Nisa Qonita Azka",
+    role: "Alumni 2023 · MAN 1 Jember",
     text: "Bekal akhlak dan kebiasaan belajar dari Mutu 7 sangat membantu saya saat masuk SMA Negeri. Lingkungannya hangat seperti keluarga.",
     initial: "A",
   },

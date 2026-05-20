@@ -7,12 +7,12 @@ import t5 from "@/assets/teacher-5.jpg";
 import t6 from "@/assets/teacher-6.jpg";
 
 const teachers = [
-  { name: "Faridatul Maysaroh, S.Pd.", role: "Kepala Sekolah", subject: "Pimpinan", img: t1 },
-  { name: "Metawati Dewi, S.Pd.", role: "Wakil Kurikulum", subject: "Matematika", img: t2 },
-  { name: "Lulukin Nadhifah, S.Pd.", role: "Guru Senior", subject: "Bahasa Indonesia", img: t3 },
-  { name: "Suemar Hadi, S.Pd.", role: "Pembina OSIS", subject: "IPA Terpadu", img: t4 },
-  { name: "Ahmad Fauzi, S.Pd.I.", role: "Guru Agama", subject: "PAI & Tahfidz", img: t5 },
-  { name: "Nur Hidayati, S.Pd.", role: "Wali Kelas", subject: "Bahasa Inggris", img: t6 },
+  { name: "Faridatul Maysaroh, S.Pd., S.H.", role: "Kepala Sekolah", subject: "Pancasila", img: t1 },
+  { name: "Suem Hariyadi, S.Pd.", role: "Wakil Kepala Sekolah", subject: "IPS Terpadu", img: t4 },
+  { name: "Dessy Ratnasari, S.Pd.", role: "Kepala Perpustakaan", subject: "Bahasa Inggris", img: t3 },
+  { name: "Ahmad Jamian, S.Pd.I.", role: "Wakil kurikulum", subject: "IPA Terpadu", img: t5 },
+  { name: "Luluk Anis Siami, S.Pd.", role: "Wakil Kesiswaan", subject: "Kesenian", img: t2 },
+  { name: "Edy Purnomo, S.Ag.", role: "Wali Kelas", subject: "Agama Islam", img: t6 },
 ];
 
 export function TeachersSection() {
